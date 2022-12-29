@@ -15,4 +15,4 @@ Some queries are overly complicated, some might be a little bit too simple. Over
 - **PostgreSQL-data-updated-DML.sql** a DML script to fill up our database, slightly modiefied with queries from project-assignment-2
 
 ## Author
-- Matúš Maťaš
+- [REDACTED]
